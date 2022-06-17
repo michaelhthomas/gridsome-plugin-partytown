@@ -13,5 +13,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Copy Partytown library files to site's `dist` folder at build time
 - Support using all of Partytown's configuration options in `gridsome.config.js`
 
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.1.0
+[Unreleased]: https://github.com/michaelhthomas/gridsome-plugin-partytown/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/michaelhthomas/gridsome-plugin-partytown/releases/tag/v0.1.0
