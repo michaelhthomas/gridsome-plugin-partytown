@@ -18,7 +18,7 @@
     "start": "gulp start",
     "build": "gulp build",
     "lint": "eslint src/ --ext .ts",
-    "release": "np"
+    "release": "yarn build && cd dist && npm publish"
   },
   "dependencies": {
     "@builder.io/partytown": "^0.6.1",
