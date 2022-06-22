@@ -1,6 +1,6 @@
 {
   "name": "gridsome-plugin-partytown",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Partytown plugin for the Gridsome static site generator",
   "main": "gridsome.server.js",
   "files": [
