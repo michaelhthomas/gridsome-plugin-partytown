@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2] - 2022-06-22
+### Fixed
+- Published a working version to NPM
+
 ## [0.1.1] - 2022-06-19
 ### Fixed
 - Fixed embarassing bug that caused the published NPM plugin to be missing compiled files
