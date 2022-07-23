@@ -2,7 +2,7 @@
 
 Optimize third-party scripts on your Gridsome site with [Partytown](https://partytown.builder.io/).
 
-[![npm](https://img.shields.io/npm/v/gridsome-plugin-partytown)](https://www.npmjs.com/package/gridsome-plugin-manifest) [![npm peer dependency version](https://img.shields.io/npm/dependency-version/gridsome-plugin-partytown/peer/gridsome)](https://www.npmjs.com/package/gridsome) [![NPM](https://img.shields.io/npm/l/gridsome-plugin-partytown)](https://github.com/michaelhthomas/gridsome-plugin-partytown/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/gridsome-plugin-partytown)](https://www.npmjs.com/package/gridsome-plugin-partytown) [![npm peer dependency version](https://img.shields.io/npm/dependency-version/gridsome-plugin-partytown/peer/gridsome)](https://www.npmjs.com/package/gridsome) [![NPM](https://img.shields.io/npm/l/gridsome-plugin-partytown)](https://github.com/michaelhthomas/gridsome-plugin-partytown/blob/master/LICENSE)
 
 ## Contents
 
